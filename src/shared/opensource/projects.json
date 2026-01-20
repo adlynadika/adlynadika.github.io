@@ -1,1 +1,98 @@
-{"data":[{"id":"MDEwOlJlcG9zaXRvcnkyOTU0MzQ5NjU=","name":"Face_Recognizer","createdAt":"2020-09-14T14:05:35Z","url":"https://github.com/Tasin5541/Face_Recognizer","description":"Face Recognition with ResNet-50 and custom trainable head","forkCount":2,"stargazers":{"totalCount":3},"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNDUxODc2NTk=","name":"Bachao-Android_Studio","createdAt":"2020-03-05T14:40:54Z","url":"https://github.com/Tasin5541/Bachao-Android_Studio","description":"An Android app made with Android Studio to report crime and stay updated with local most wanted criminals","forkCount":0,"stargazers":{"totalCount":3},"languages":[{"name":"Java","iconifyClass":"logos-java"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNDUyMjc0MDY=","name":"Cricket-Image-Classifier","createdAt":"2020-03-05T17:33:15Z","url":"https://github.com/Tasin5541/Cricket-Image-Classifier","description":"A trained Neural Network model to identify what a player or umpire is doing in an image","forkCount":0,"stargazers":{"totalCount":3},"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkxODE0MTU2MDU=","name":"PAATHSHALA_PHP","createdAt":"2019-04-15T05:06:32Z","url":"https://github.com/Tasin5541/PAATHSHALA_PHP","description":"A website made for bangladeshi students where they can ask questions related to study and get ranked as they give solutions to others' problem","forkCount":1,"stargazers":{"totalCount":3},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"MDEwOlJlcG9zaXRvcnkyODYxNjEwNDE=","name":"Deep_Fake_Video_Using_First_Order_motion_model","createdAt":"2020-08-09T03:39:31Z","url":"https://github.com/Tasin5541/Deep_Fake_Video_Using_First_Order_motion_model","description":"Generate fake videos of a person from his image. Animates the image for lip sync","forkCount":0,"stargazers":{"totalCount":3},"languages":[{"name":"Jupyter Notebook","iconifyClass":"logos-jupyter"}]},{"id":"MDEwOlJlcG9zaXRvcnkyNDUxODU4NTc=","name":"Patient_Care_JAVA-Netbeans-","createdAt":"2020-03-05T14:33:45Z","url":"https://github.com/Tasin5541/Patient_Care_JAVA-Netbeans-","description":"A java software for hospital management and keeping track of own medical history","forkCount":1,"stargazers":{"totalCount":2},"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"Java","iconifyClass":"logos-java"}]}]}
+{"data":[
+    {
+        "id":"xerox-sales-dashboard",
+        "name":"Xerox-Sales-Dashboard",
+        "createdAt":"2025-11-16T14:05:35Z",
+        "url":"https://public.tableau.com/app/profile/adlyn.adika/viz/XeroxSalesPerformanceDashboard/XeroxSalesDashboard-Light",
+        "description":"Interactive Tableau dashboards showcasing sales insights and BI storytelling for Xerox",
+        "forkCount":0,
+        "stargazers":{"totalCount":0},
+        "languages":[
+        { "name":"Tableau", "iconifyClass":"logos-jupyter"},
+        { "name": "Excel", "iconifyClass":"logos-css-3"}]
+    },
+
+    {
+        "id":"ai-usage",
+        "name":"AI-Usage-In-Academic-Work",
+        "createdAt":"2026-01-16T14:40:54Z",
+        "url":"https://public.tableau.com/app/profile/adlyn.adika/viz/AIUSAGEINACADEMICWORK2024-2026/Story1",
+        "description":"An interactive Tableau dashboard exploring AI engagement in higher education, designed to highlight adoption trends, behavioral patterns, and effectiveness with a clean, story‑driven interface.",
+        "forkCount":0,
+        "stargazers":{"totalCount":0},
+        "languages":[
+        { "name":"Tableau", "iconifyClass":"logos-java"}]
+    },
+
+    {
+        "id":"flutter-app",
+        "name":"Flutter-Islamic-Counseling-App",
+        "createdAt":"2026-01-21T17:33:15Z",
+        "url":"https://github.com/adlynadika/Flutter-Islamic-Counseling-App",
+        "description":"A cross‑platform mobile app offering faith‑based counseling, resources, and community support, built with Flutter and Firebase.",
+        "forkCount":1,"stargazers":{"totalCount":3},
+        "languages":[
+        { "name":"Flutter", "iconifyClass":"logos-jupyter"},
+        { "name":"Firebase", "iconifyClass":"logos-jupyter"}]
+    },
+        
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkxODE0MTU2MDU=",
+        "name":"PAATHSHALA_PHP",
+        "createdAt":"2019-04-15T05:06:32Z",
+        "url":"https://github.com/Tasin5541/PAATHSHALA_PHP",
+        "description":"A website made for bangladeshi students where they can ask questions related to study and get ranked as they give solutions to others' problem",
+        "forkCount":1,
+        "stargazers":{"totalCount":3},
+        "languages":[{
+            "name":"CSS",
+            "iconifyClass":"logos-css-3" 
+        },
+
+        {
+            "name":"JavaScript",
+            "iconifyClass":"logos-javascript"
+        }]
+            
+    },
+        
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyODYxNjEwNDE=",
+        "name":"Deep_Fake_Video_Using_First_Order_motion_model",
+        "createdAt":"2020-08-09T03:39:31Z",
+        "url":"https://github.com/Tasin5541/Deep_Fake_Video_Using_First_Order_motion_model",
+        "description":"Generate fake videos of a person from his image. Animates the image for lip sync",
+        "forkCount":0,
+        "stargazers":{"totalCount":3},
+        "languages":[{
+            "name":"Jupyter Notebook",
+            "iconifyClass":"logos-jupyter"
+        }]
+    },
+    
+    {
+        "id":"MDEwOlJlcG9zaXRvcnkyNDUxODU4NTc=",
+        "name":"Patient_Care_JAVA-Netbeans-",
+        "createdAt":"2020-03-05T14:33:45Z",
+        "url":"https://github.com/Tasin5541/Patient_Care_JAVA-Netbeans-",
+        "description":"A java software for hospital management and keeping track of own medical history",
+        "forkCount":1,
+        "stargazers":{"totalCount":2},
+        "languages":[{
+            "name":"CSS",
+            "iconifyClass":"logos-css-3"
+        },
+            
+        {
+            "name":"HTML",
+            "iconifyClass":"logos-html-5"
+        },
+        
+        {
+            "name":"Java",
+            "iconifyClass":"logos-java"
+            }]
+            
+        }
+        
+    ]}

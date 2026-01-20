@@ -1,5 +1,3 @@
-/* Change this file to get your personal Porfolio */
-
 // Website related settings
 const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
@@ -7,26 +5,26 @@ const settings = {
 
 //Home Page
 const greeting = {
-  title: "Miftaul Mannan",
-  logo_name: "Miftaul Mannan",
+  title: "Adlyn Adika",
+  logo_name: "Adlyn Adika",
   nickname: null,
   subTitle:
-    "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
+    "Analyst by training, designer by passion — delivering clarity through numbers and creativity.",
   resumeLink:
-    "https://drive.google.com/file/d/1ecfeM8pNH7aLELi5EINHrX8-jY5Uqb0q/view?usp=sharing",
-  portfolio_repository: "https://github.com/Tasin5541",
+    "https://drive.google.com/file/d/1zzTuIR6q7IneBRu8Y-OaL1GGcaP0xLXc/view?usp=sharing",
+  portfolio_repository: "https://github.com/adlynadika",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/Tasin5541",
+    link: "https://github.com/adlynadika",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/miftaul-mannan-tasin-566543107/",
+    link: "https://www.linkedin.com/in/adlynadika/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -61,81 +59,81 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
+      title: "Data Analyst & Designer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website using NextJs and React",
-        "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in .Net Core",
-        "⚡ Implementing dynamic script execution defined by user",
+        "⚡ Designing interactive dashboards using Tableau/Power BI",
+        "⚡ Integrating datasets from Kaggle, Google Forms, and Excel",
+        "⚡ Creating professional visuals with Photoshop and Canva",
+        "⚡ Developing responsive web apps with React/Flutter/Dart",
       ],
       softwareSkills: [
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Tableau",
+          fontAwesomeClassname: "logos:tableau-icon",
           style: {
             color: "#61DAFB",
           },
         },
         {
-          skillName: "NextJs",
-          fontAwesomeClassname: "akar-icons:nextjs-fill",
+          skillName: "Power BI",
+          fontAwesomeClassname: "logos:microsoft-power-bi",
           style: {
             color: "#626262",
           },
         },
         {
-          skillName: ".Net Core",
-          fontAwesomeClassname: "mdi:dot-net",
+          skillName: "Illustrator",
+          fontAwesomeClassname: "logos:adobe-illustrator",
           style: {
             color: "#5C2D91",
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          skillName: "Photoshop",
+          fontAwesomeClassname: "logos:adobe-photoshop",
           style: {
             color: "#339933",
           },
         },
         {
-          skillName: "Redux",
-          fontAwesomeClassname: "tabler:brand-redux",
+          skillName: "Excel",
+          fontAwesomeClassname: "vscode-icons:file-type-excel",
           style: {
             color: "#7749bd",
-          },
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            color: "#F7DF1E",
-          },
-        },
-        {
-          skillName: "TypeScript",
-          fontAwesomeClassname: "devicon:typescript",
-          style: {
-            color: "#3178c6",
-          },
-        },
-        {
-          skillName: "C#",
-          fontAwesomeClassname: "teenyicons:c-sharp-solid",
-          style: {
-            color: "#953dac",
           },
         },
         {
           skillName: "MS SQL Server",
           fontAwesomeClassname: "tabler:sql",
           style: {
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "R",
+          fontAwesomeClassname: "logos:r-lang",
+          style: {
+            color: "#3178c6",
+          },
+        },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "logos:flutter",
+          style: {
+            color: "#953dac",
+          },
+        },
+        {
+          skillName: "Dart",
+          fontAwesomeClassname: "logos:dart",
+          style: {
             color: "#c42626",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "vscode-icons:file-type-mongo",
+          skillName: "GitHub",
+          fontAwesomeClassname: "akar-icons:github-fill",
           style: {
             color: "#c42626",
           },
@@ -148,8 +146,8 @@ const skills = {
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "skill-icons:docker",
+          skillName: "Laravel",
+          fontAwesomeClassname: "logos:laravel",
           style: {
             color: "#c42626",
           },
@@ -168,20 +166,6 @@ const skills = {
             color: "#1572B6",
           },
         },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
-        {
-          skillName: "Tailwind CSS",
-          fontAwesomeClassname: "file-icons:tailwind",
-          style: {
-            color: "#38bdf8",
-          },
-        },
       ],
     },
   ],
@@ -196,11 +180,11 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%",
+      progressPercentage: "50%",
     },
     {
       Stack: "Programming",
-      progressPercentage: "80%",
+      progressPercentage: "50%",
     },
   ],
 };
@@ -210,44 +194,20 @@ const sLanguage = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "React",
+      Stack: "Malay",
+      progressPercentage: "100%",
+    },
+    {
+      Stack: "English",
       progressPercentage: "90%",
     },
     {
-      Stack: "NextJs",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "JavaScript",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "TypeScript",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "Redux",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: ".Net Core",
-      progressPercentage: "70%",
-    },
-    {
-      Stack: "C#",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "SQL", //Insert stack or technology you have experience in
-      progressPercentage: "80%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "CSS/SASS",
-      progressPercentage: "80%",
-    },
-    {
-      Stack: "NodeJs",
+      Stack: "Malaysian Sign Language (BIM)",
       progressPercentage: "40%",
+    },
+    {
+      Stack: "Mandarin",
+      progressPercentage: "20%",
     },
   ],
 };
@@ -257,39 +217,27 @@ const tools = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Git",
-      progressPercentage: "80%",
+      Stack: "Canva",
+      progressPercentage: "100%",
     },
     {
-      Stack: "Azure Services", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
+      Stack: "Tableau", //Insert stack or technology you have experience in
+      progressPercentage: "90%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "Docker", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
+      Stack: "Power BI", //Insert stack or technology you have experience in
+      progressPercentage: "80%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Visual Studio Code", //Insert stack or technology you have experience in
       progressPercentage: "95%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "Visual Studio ", //Insert stack or technology you have experience in
+      Stack: "Capcut", //Insert stack or technology you have experience in
       progressPercentage: "80%", //Insert relative proficiency in percentage
     },
     {
-      Stack: "MS SQL Server", //Insert stack or technology you have experience in
-      progressPercentage: "90%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "MySQL", //Insert stack or technology you have experience in
-      progressPercentage: "70%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Firebase", //Insert stack or technology you have experience in
-      progressPercentage: "60%", //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "MongoDB", //Insert stack or technology you have experience in
+      Stack: "Flutter", //Insert stack or technology you have experience in
       progressPercentage: "60%", //Insert relative proficiency in percentage
     },
   ],
@@ -312,21 +260,20 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Ahsanullah University of Science and Technology",
-      subtitle: "B.Sc. in Computer Science and Engineering",
-      logo_path: "aust_logo.png",
+      title: "International Islamic University Malaysia (IIUM)",
+      subtitle: "B.Sc. in Information Communication and Technology (Hons.)",
+      logo_path: "iiumlogo.png",
       alt_name: "IIITDM Kurnool",
-      duration: "March 2016 - January 2021",
-      cgpa: "3.855 / 4.00",
+      duration: "October 2022 - October 2026",
+      cgpa: "3.79 / 4.00",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, OOP, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning and Full Stack Development.",
-        "⚡ Placed 4th in my class.",
-        "⚡ Dean's List.",
-        "⚡ I was selected for ITEE Training Program which comprised of 20 students in the CSE department.",
-        "⚡ Elected as the team leader in all the group projects.",
+        "⚡ Studied core subjects including Data Warehousing, Business Intelligence, Information Visualization, and etc.",
+        "⚡ Completed coursework and projects in Dashboard Design, Game Development, and Mobile App Development.",
+        "⚡ Consistently achieved Dean's List recognition for academic excellence.",
+        "⚡ Ranked among the top students in the program with strong analytical and design skills.",
+        "⚡ Served as team leader in multiple group projects, demonstrating leadership and collaboration.",
       ],
-      website_link: "http://aust.edu/",
+      website_link: "https://www.iium.edu.my/",
     },
   ],
 };
@@ -334,158 +281,22 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "TENCON 2021",
-      subtitle: "- Nirmal Nair",
-      logo_path: "tencon.png",
+      title: "CompTIA Data+",
+      subtitle: "Issued by CompTIA",
+      logo_path: "comptiadata.png",
       certificate_link:
         "https://drive.google.com/file/d/1wLzB3oGkyI4svn09Yor2sAeSF3DbPzeU/view?usp=sharing",
-      alt_name: "New Zealand",
+      alt_name: "CompTIA",
       color_code: "white",
     },
     {
-      title: "Python Data Structures",
-      subtitle: "- Charles Russell Severance",
-      logo_path: "michigan_logo.png",
+      title: "CCNA v7: Introduction to Networks",
+      subtitle: "Issued by Cisco",
+      logo_path: "ccna.png",
       certificate_link:
         "https://coursera.org/share/259bcebba35c1ba43934608a5fab9907",
-      alt_name: "Michigan University",
+      alt_name: "Cisco",
       color_code: "#2A73CC",
-    },
-    {
-      title: "Python Basics",
-      subtitle: "- Charles Russell Severance",
-      logo_path: "michigan_logo.png",
-      certificate_link:
-        "https://coursera.org/share/39d3749b06308a77e0f596129029d4fe",
-      alt_name: "Michigan University",
-      color_code: "#2A73CC",
-    },
-
-    {
-      title: "React: The Big Picture",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1qcJipEjDB3YanZor4xHpU_9BC73FuCud/view?usp=sharing",
-      alt_name: "Pluralsight",
-      color_code: "#000000",
-    },
-    {
-      title: "React: Getting Started",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1LYzFiq0DDYYiDHowG4nbPjgmjCgd3QiV/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Javascript: Getting Started",
-      subtitle: "- Mark Zamoyta",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12qhxMM2DGp4YVdG9wcpFDNX7r1bjqumx/view?usp=sharing",
-      alt_name: "Pluralsight",
-      color_code: "#000000",
-    },
-    {
-      title: "Designing React Components",
-      subtitle: "- Peter Kellner",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12f_pCjrOIkx0SMC0mqjnxpMwc9tesQoC/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Managing React State",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12f_pCjrOIkx0SMC0mqjnxpMwc9tesQoC/view?usp=sharing",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Building Applications with React and Redux",
-      subtitle: "- Cory House",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/15UMAKzJq1g1cIrz-sp1Ve0efg-M-hAq1/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Using React Hooks",
-      subtitle: "- Peter Kellner",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/15mPlLGrjpmkdlf3eyi7B_NLG8Wro5EEg/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Styling React Component",
-      subtitle: "- Jake Trent",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/14Wvag5M1sGzOlgWCC2PPDX4SsUkiqf72/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Testing React Components",
-      subtitle: "- Liam McLennan",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1654lPVh6R1zwSjgZjHV9gz7mgQ7wRmLm/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Server Rendering React Components",
-      subtitle: "- Daniel Stern",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/14YrLAmZlGNx2PayR0unlLjMoySL-eRG5/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Optimize Performance React",
-      subtitle: "- Hendrik Swanepoel",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/15kaZAf9642Kp_LBXYeqiVSzInaz-peAi/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Node.js The Big Picture",
-      subtitle: "- Paul O'Fallon",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/16jqLAZ4rWiUmITkGGxrZb68Eo5l77UPu/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Node.js Getting Started",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/173qXhPtqI1zwSzcb487R3Ud_0j13LiDP/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
-    },
-    {
-      title: "Using MongoDB with Node.js",
-      subtitle: "- Samer Buna",
-      logo_path: "pluralsight_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/16za14GrABr8xBM8r8hCtag1fO2faZTD8/view",
-      alt_name: "Pluralsight.",
-      color_code: "#000000",
     },
   ],
 };
@@ -493,31 +304,60 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work and Volunteership",
+  subtitle: "Work and Volunteering Activities",
   description:
-    "Fullstack Developer with 2+ years of experience working with React, .Net and NodeJs in an agile environment. Experience in leading a 5 member frontend team to achieve concrete goals on a strict deadline in a large scale project consisting over millions of records of drivers all throughout North America.",
+    "Final-year Business Intelligence & Information Systems student with hands-on experience in data analysis, dashboard design, workflow automation, and creative storytelling. Contributed to industry projects at Malaysia Airports Holdings Berhad, academic events at IIUM, and IT support roles, blending analytical rigor with design polish.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work",
       experiences: [
         {
-          title: "Fullstack Developer",
-          company: "CodeExcel inc.",
-          company_url: "https://codeexcel.ca/",
-          logo_path: "codeexcel.jpg",
-          duration: "January 2021 - PRESENT",
-          location: "Markham, ON, Canada (Remote)",
+          title: "Project Assistant – Improvement of Chute Netting (Metal Slider)",
+          company: "Malaysia Airports Holdings Berhad",
+          company_url: "https://www.mahb.com.my/",
+          logo_path: "mahb_logo.png",
+          duration: "November 2025 - December 2025",
+          location: "Remote",
           description:
-            "Worked with 2 Insurance Bureau of Canada and Pixelmask Inc. as a Contractor via CodeExcel. Engaged in 5 successful projects utilizing stacks such as: React, .Net Core, MS SQL Server, Azure Cloud Services (AD, B2C, Key Vault, Blob Storage, Front Door etc). The projects are mainly focused towards the North American Insurance Industry.",
-          features: [
-            "- Led the frontend team that resulted in a 25% increase in sprint completion rate.",
-            "- Implemented Single Sign-On (SSO) via Azure B2C across multiple legacy projects, simplifying user experience and reducing account management, resulting in seamless login with company credentials.",
-            "- Uncovered critical project vulnerabilities within 2 days of joining the IBC team, enabling timely remediation and preventing potential losses.",
-            "- Slashed development cost by 13% by suggesting and building a SCIM v2 compliant API for automatic user provisioning between IDP and application instead of using third party solution.",
-            "- Implemented flexible payment gateway module, empowering clients to easily switch gateways, boosting convenience and expanding options.",
-            "- Optimized UI performance by 15% and eliminated code redundancy using React's functional components, custom hooks, and Redux.",
-          ],
+            "Supported KLIA2 Baggage Handling System (BHS) improvement project through analysis, planning, and reporting.",
+          features: [],
+          color: "#0879bf",
+        },
+        {
+          title: "Data Entry & Performance Analyst – Inbound Breakdown Data",
+          company: "Malaysia Airports Holdings Berhad",
+          company_url: "https://www.mahb.com.my/",
+          logo_path: "mahb_logo.png",
+          duration: "November 2025 - December 2025",
+          location: "Remote",
+          description:
+            "Analysed inbound baggage breakdown performance records using Microsoft Excel to improve operational visibility and efficiency.",
+          features: [],
+          color: "#0879bf",
+        },
+        {
+          title: "Business & IT Assistant",
+          company: "Tadika Khalifah Insaniah (KIDCC)",
+          company_url: "https://codeexcel.ca/",
+          logo_path: "kicdc_logo.png",
+          duration: "October 2025",
+          location: "Remote",
+          description:
+            "Managed financial records and built IT solutions using AppSheet to streamline operations for a childcare center.",
+          features: [],
+          color: "#0879bf",
+        },
+        {
+          title: "Event Creative Designer",
+          company: "CENTRIS & KICT IIUM",
+          company_url: "https://www.iium.edu.my/",
+          logo_path: "iiumlogo.png",
+          duration: "June 2025",
+          location: "Remote",
+          description:
+            "Designed creative assets using Canva and Capcut and standardized branding for academic event sessions.",
+          features: [],
           color: "#0879bf",
         },
       ],
@@ -526,14 +366,26 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Developer Program Member",
-          company: "Github",
-          company_url: "https://github.com/",
-          logo_path: "github_logo.png",
-          duration: "September 2020 - PRESENT",
-          location: "Work From Home",
+          title: "Media & Creative Team Member – Global Interfaith Tour (GIFT 4.0)",
+          company: "Quranic Youth Club (QYC) IIUM",
+          company_url: "https://www.instagram.com/qyciium/?hl=en",
+          logo_path: "qyc.jpg",
+          duration: "November 2024",
+          location: "Ho Chi Minh, Vietnam",
           description:
-            "I am actively contributing to many opensource projects. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+            "I produced creative content and documented interfaith dialogues for global visibility.",
+          features: [],
+          color: "#181717",
+        },
+        {
+          title: "Exchange Student – Humanising ICT Program",
+          company: "UIN SUSKA & IIUM",
+          company_url: "https://github.com/",
+          logo_path: "uin.png",
+          duration: "November - December 2023",
+          location: "Pekan Baru, Indonesia",
+          description:
+            "I contributed to cross-cultural ICT projects and proposed community-based tech solutions.",
           features: [],
           color: "#181717",
         },
@@ -546,30 +398,20 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full Stack projects and deploy them to web applications using cloud infrastructure. Stil trying to gain experience by trying my hands on different projects.",
-  avatar_image_path: "projects_image.svg",
+    "I enjoy working on projects that combine data analysis and design. From building dashboards and cleaning datasets to creating visuals and user‑friendly interfaces, I’ve been able to apply both sides of my skill set. My best experiences have been developing EDA dashboard, 2D game, mobile and web application.",
 };
 
 // Contact Page
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "tasin.png",
+    profile_image_path: "adlynlogo.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Basic Programming, ML, AI, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to write about the projects I've worked on, my current work and discuss my latest foundings. You are most welcome to input your thoughts on my projects.",
-    link: "https://miftaulmannan.wordpress.com/projects/",
-    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
-    title: "Address",
-    subtitle: "Banani, Dhaka-1212, Bangladesh",
-    avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/yV1Vkp7L3to9qvKX6",
   },
   phoneSection: {
     title: "Phone Number",
