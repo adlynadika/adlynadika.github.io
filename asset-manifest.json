@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8347679b.css",
-    "main.js": "/static/js/main.80c31885.js",
+    "main.js": "/static/js/main.12b66e39.js",
     "static/media/portfolio.gif": "/static/media/portfolio.2d4f8cc945db20143116.gif",
     "static/media/adlynlogo.png": "/static/media/adlynlogo.b35f134c4877da677f84.png",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
@@ -9,6 +9,7 @@
     "static/media/codeexcel.jpg": "/static/media/codeexcel.74d660a50ca20477dcbf.jpg",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.33466a0f3aeaa379a80c.png",
+    "static/media/adlynwebsite.png": "/static/media/adlynwebsite.e1850d711760f19108b8.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
     "static/media/tasin.png": "/static/media/tasin.98c160a768ffbee8673c.png",
@@ -54,6 +55,7 @@
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/legato_logo.png": "/static/media/legato_logo.b21d6f55406a78f688e3.png",
     "static/media/apple-icon-152x152.png": "/static/media/apple-icon-152x152.b04e2b44b5cb399010c3.png",
+    "static/media/feelingProud1.svg": "/static/media/feelingProud1.bb16ac3d73c1fff1eb79.svg",
     "static/media/ms-icon-150x150.png": "/static/media/ms-icon-150x150.f5fbdf5cb95420c11c42.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a.svg",
     "static/media/android-icon-144x144.png": "/static/media/android-icon-144x144.c3aa610c2fb645866d86.png",
@@ -90,6 +92,7 @@
     "static/media/moon.svg": "/static/media/moon.e9852ed533af00b892b9444429b57708.svg",
     "static/media/education.svg": "/static/media/education.8b0258a1a86c19fe8f3b.svg",
     "static/media/sun.svg": "/static/media/sun.db2717a27205cb9b42c356228b26e179.svg",
+    "static/media/adlynicon.ico": "/static/media/adlynicon.d73e16b5a9779545da98.ico",
     "index.html": "/index.html",
     "static/media/favicon.ico": "/static/media/favicon.32ac7f6c2ce700f19589.ico",
     "static/media/favicon1.ico": "/static/media/favicon1.72acf0b2ce0dd1e4b59c.ico",
@@ -97,10 +100,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.6a48aa5b1199a0c0214f.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.31f4e73428eb4215e54a.svg",
     "main.8347679b.css.map": "/static/css/main.8347679b.css.map",
-    "main.80c31885.js.map": "/static/js/main.80c31885.js.map"
+    "main.12b66e39.js.map": "/static/js/main.12b66e39.js.map"
   },
   "entrypoints": [
     "static/css/main.8347679b.css",
-    "static/js/main.80c31885.js"
+    "static/js/main.12b66e39.js"
   ]
 }
