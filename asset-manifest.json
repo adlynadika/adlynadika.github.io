@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ec1f013.css",
+    "main.css": "/static/css/main.d48abd97.css",
     "main.js": "/static/js/main.ebf7171e.js",
     "static/media/portfolio.gif": "/static/media/portfolio.2d4f8cc945db20143116.gif",
     "static/media/adlynlogo.png": "/static/media/adlynlogo.b35f134c4877da677f84.png",
@@ -99,11 +99,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.3227e84a89a1650db619.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.6a48aa5b1199a0c0214f.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.31f4e73428eb4215e54a.svg",
-    "main.2ec1f013.css.map": "/static/css/main.2ec1f013.css.map",
+    "main.d48abd97.css.map": "/static/css/main.d48abd97.css.map",
     "main.ebf7171e.js.map": "/static/js/main.ebf7171e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec1f013.css",
+    "static/css/main.d48abd97.css",
     "static/js/main.ebf7171e.js"
   ]
 }
